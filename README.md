@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Build your web servers without spending hours on setting up the project.</b></br>
-  <sub>Made with ❤️ by <a href="https://github.com/abhijeetgurle">Abhijeet</a></sub>
+  <sub>Made with ❤️ by <a href="https://github.com/kumar2191">Kumar M</a></sub>
 </p>
 
 <br>
