@@ -12,7 +12,6 @@
 - **Simple Code** with no unnecessary dependencies.
 - **JSON & Cookie** parsing support with no need for configurations.
 - **Environment variables** can be easily added in the file `.env` using a library like [dotenv](https://www.npmjs.com/package/dotenv).
-- **Logging** support using libraries like [winston](https://www.npmjs.com/package/winston) & [morgan](https://www.npmjs.com/package/morgan)
 - **Prettier & ESlint** added so that your code looks & feels consistent.
 
 
